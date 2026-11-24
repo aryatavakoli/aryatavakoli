@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Arya</h1>
 <h3 align="center">SRE and Software Engineer</h3>
 
-- 🔭 I’m currently working at [Electronic Arts](https://www.ea.com/)
+- 🔭 I’m currently working at [2K Games](https://2k.com/)
 - ⚡ I work with large companies to manage mission-critical software at scale
 
 
